@@ -13,8 +13,6 @@ https://www.db-fiddle.com/f/jXmhmdePRrMNN1AmCjVooZ/0#&togetherjs=6TeInkcAP4
 Чат 2:
 https://www.db-fiddle.com/f/ofKNUjZjzrHFjof9db2Yye/0#&togetherjs=6TeInkcAP4
 
-Обмен текстами: https://clck.ru/3DfRt5
-
 ## Программа курса (40 ак. ч.)
 1. популярные архитектуры работы с данными
 2. популярные инструменты для работы с данными
