@@ -1,3 +1,6 @@
+![](company_invoices.png)
+
+
 ```sql
 CREATE TABLE Meas_Units (
   id SERIAL primary key, 
